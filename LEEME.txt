@@ -1,13 +1,14 @@
 📄 Divisor de Liquidaciones por Centro de Costo (con orden personalizado)
 
-1. Asegúrate de que tu Excel tenga las siguientes columnas:
-   - Indice (con números que definan el orden deseado)
+Este sistema respeta el orden del Excel usando la columna 'Indice'.
+
+1. El Excel debe tener:
+   - Indice (número entero que define el orden deseado)
    - RUN
    - Centro Costo
 
-2. Sube el PDF con todas las liquidaciones.
-3. Sube el Excel.
-4. Espera a que se generen los PDFs agrupados por centro y ordenados según 'Indice'.
-5. Descarga todo en un solo ZIP.
+2. Se generará un PDF por cada centro de costo.
+3. Las páginas de cada PDF seguirán el orden de RUTs según el 'Indice'.
+4. Todo se descargará en un único ZIP.
 
-✅ Ideal para impresión controlada y procesos auditables.
+✅ Uso recomendado para procesos con control administrativo.
